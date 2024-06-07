@@ -12,3 +12,6 @@ To run this application:
 ```
 python3 app.py
 ```
+or
+
+press `.` on keyboard to launch it on GitHub Codespaces
